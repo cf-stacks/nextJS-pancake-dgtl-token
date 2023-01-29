@@ -1,0 +1,4 @@
+// BNB
+export const DEFAULT_INPUT_CURRENCY = 'BNB'
+// BUSD
+export const DEFAULT_OUTPUT_CURRENCY = '0x210ab9b551e81b7ca2979b06bb64eb4e774b360b' // change to DGTL
